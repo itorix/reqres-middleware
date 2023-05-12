@@ -1,0 +1,28 @@
+{
+  "name": "reqres-middleware",
+  "version": "1.0.0",
+  "description": "middleware to track requests and response and send information to any target endpoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itorix/reqres-middleware.git"
+  },
+  "keywords": [
+    "request",
+    "response",
+    "middleware",
+    "node"
+  ],
+  "author": "APIwiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itorix/reqres-middleware/issues"
+  },
+  "homepage": "https://github.com/itorix/reqres-middleware#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.9"
+  }
+}
